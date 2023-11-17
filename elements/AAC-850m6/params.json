@@ -1,0 +1,47 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 10,
+        "width": 10
+    },
+    "display": "Event",
+    "events": {
+        "AAO": {
+            "caption": "Append",
+            "name": "append"
+        }
+    },
+    "icon": "ion-cube",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    },
+    "states": {
+        "AAG": {
+            "caption": "Name",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "name",
+            "value": "text"
+        },
+        "AAH": {
+            "caption": "Data String",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "dataString",
+            "value": "text"
+        },
+        "AAS": {
+            "caption": "Data Array",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "is_list": true,
+            "name": "dataArray",
+            "value": "text"
+        }
+    }
+}

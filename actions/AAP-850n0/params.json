@@ -1,0 +1,31 @@
+{
+    "category": "plugins",
+    "display": "Trigger event",
+    "fields": {
+        "AAQ": {
+            "caption": "Name",
+            "editor": "DynamicValue",
+            "name": "name",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAR": {
+            "caption": "Data String",
+            "editor": "DynamicValue",
+            "name": "dataString",
+            "optional": true,
+            "rank": 1,
+            "value": "text"
+        },
+        "AAT": {
+            "caption": "Data Array",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "dataArray",
+            "optional": true,
+            "rank": 2,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}

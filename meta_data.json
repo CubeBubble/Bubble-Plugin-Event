@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "description": "Trigger and hold custom events",
+    "image": "//s3.amazonaws.com/appforest_uf/f1634732955918x291433439848208400/celebration_black_24dp%20%281%29.svg",
+    "license": "open_source",
+    "name": "Event",
+    "sa_node_version": 18
+}
